@@ -1,7 +1,0 @@
-
-NAME: Andriy 
-AGE: 29 
-CITY: Lviv,
-NAME: Olia 
-AGE: 25 
-CITY: Odessa

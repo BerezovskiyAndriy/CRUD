@@ -1,7 +1,0 @@
-
-NAME: Orest 
-AGE: 24 
-CITY: Kyiv,
-NAME: Oksana 
-AGE: 26 
-CITY: Ivano-Frankivsk
